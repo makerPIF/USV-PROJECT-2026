@@ -1,0 +1,14 @@
+{
+  "name": "usv-catamaran-gcs",
+  "version": "1.1.1",
+  "description": "3D-printed catamaran USV — browser ground control station, ESP32 firmware, docs",
+  "private": true,
+  "license": "MIT",
+  "author": "장홍직 (PUMPKIN IDEA FACTORY MAKERSPACE)",
+  "scripts": {
+    "capture": "node tools/capture.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.65.0"
+  }
+}
